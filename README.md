@@ -1,3 +1,5 @@
+**Welcome @wpolicarpo and @packrat386 as new maintainers for `rspec-sidekiq`!**
+
 # RSpec for Sidekiq
 
 [![RubyGems][gem_version_badge]][ruby_gems]
@@ -193,6 +195,11 @@ FooClass.within_sidekiq_retries_exhausted_block {
 
 ## Testing
 ```bundle exec rspec spec```
+
+## Maintainers
+* @wpolicarpo
+* @packrat386
+* @philostler
 
 ## Contribute
 Please do! If there's a feature missing that you'd love to see then get in on the action!
